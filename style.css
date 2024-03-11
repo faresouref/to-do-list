@@ -1,0 +1,53 @@
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #bec0ce;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input_todo {
+    width: calc(100% - 90px);
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(226, 221, 221);
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button.delete-button {
+    background-color: #ff4d4d;
+}
+
+button.delete-button:hover {
+    background-color: #d14848;
+}
