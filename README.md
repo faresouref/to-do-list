@@ -1,9 +1,6 @@
----
-title: "To-Do List Web Application"
-output: github_document
----
 
-# To-Do List Web Application
+
+# Simple To-Do List Web Application
 
 This is a simple To-Do List web application designed to help users keep track of tasks they need to accomplish. Users can add, edit, and delete tasks as needed.
 
